@@ -1,5 +1,7 @@
 # rh-seq
 Weiss et al RH-seq code repository
+
+
 This repository houses the final code used in analyzing (link to paper)
 
 Input: single end .fastq files from an RH-seq experiment, filtered according to JGI standards.
